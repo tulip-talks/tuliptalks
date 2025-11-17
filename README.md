@@ -1,35 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name - Links & Art</title>
-  <link rel="stylesheet" href="style.css">
-  <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap" rel="stylesheet">
-</head>
-<body>
-  <div class="container">
-    <header>
-      <h1>Your Name</h1>
-      <p class="subtitle">Welcome to my chaotic corner of the web</p>
-    </header>
+<h1 align="center">Tulip</h1>
+<p align="center"><em>she/her</em></p>
 
-    <main>
-      <a class="link-button" href="https://twitter.com/yourhandle" target="_blank">Twitter 🐦</a>
-      <a class="link-button" href="https://instagram.com/yourhandle" target="_blank">Instagram 📸</a>
-      <a class="link-button" href="https://artstation.com/yourhandle" target="_blank">Portfolio 🎨</a>
-      <a class="link-button" href="mailto:youremail@example.com">Email ✉️</a>
-    </main>
+<p align="center">
+  <a href="[https://www.tiktok.com/@tulip.mp4]" target="_blank">tiktok</a> |
+  <a href="[https://tuliptalks.straw.page/]" target="_blank">strawpage</a> |
+  <a href="[https://artfight.net/~TulipTalks]" target="_blank">artfight</a> |
+  <a href="mailto:tulip@tuliptalks.art">email</a>
+</p>
 
-    <footer>
-      <p>✨ Made with chaos & love ✨</p>
-    </footer>
+<style>
+/* General styling for README */
+body {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
 
-    <div class="floating-shapes">
-      <div class="shape shape1"></div>
-      <div class="shape shape2"></div>
-      <div class="shape shape3"></div>
-    </div>
-  </div>
-</body>
-</html>
+h1 {
+  color: #ff5722;
+}
+
+em {
+  color: #4caf50;
+  font-size: 1.1rem;
+}
+
+/* Button-style links */
+a {
+  display: inline-block;
+  margin: 0.5rem 1rem;
+  padding: 0.5rem 1rem;
+  background: #ffffff;
+  color: #ff5722;
+  text-decoration: none;
+  border-radius: 12px;
+  font-weight: bold;
+  transition: transform 0.3s, background 0.3s;
+}
+
+a:hover {
+  transform: rotate(-5deg) scale(1.1);
+  background: #ffd700;
+}
+
+/* Eccentric floating shapes simulation */
+div.sh
