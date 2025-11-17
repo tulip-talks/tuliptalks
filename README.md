@@ -2,9 +2,9 @@
 <p align="center"><em>she/her</em></p>
 
 <p align="center">
-  <a href="[https://www.tiktok.com/@tulip.mp4]" target="_blank">tiktok</a> |
-  <a href="[https://tuliptalks.straw.page/]" target="_blank">strawpage</a> |
-  <a href="[https://artfight.net/~TulipTalks]" target="_blank">artfight</a> |
+  <a href="https://www.tiktok.com/@tulip.mp4" target="_blank">tiktok</a> |
+  <a href="https://tuliptalks.straw.page/" target="_blank">strawpage</a> |
+  <a href="https://artfight.net/~TulipTalks" target="_blank">artfight</a> |
   <a href="mailto:tulip@tuliptalks.art">email</a>
 </p>
 
